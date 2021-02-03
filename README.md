@@ -17,5 +17,5 @@ This project aimed to model the bombings conducted over Germany and to see if th
  1.MATLAB was the primary language used for visualition
  1. Excel was used to manipulate the datasets to be in a usable format for MATLAB.
   
-
-  
+# Additional Details
+Conversion of Final visualisation to Gif used code for MATLAB supplied by Chad Greene at https://au.mathworks.com/matlabcentral/fileexchange/63239-gif   
